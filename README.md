@@ -4,7 +4,7 @@
 ## Welcome to my Github
 
 - 🌱 Saki Reid (she/her) 
-- 🔭 Currently at [Founders and Coders](https://www.foundersandcoders.com)
+- 🔭 Coding Bootcamp @ [Founders and Coders](https://www.foundersandcoders.com)
 - 📫 My CV: https://www.linkedin.com/in/haginom/
 
 I'm a full stack developer, excited by projects with a social impact.
@@ -17,9 +17,6 @@ I'm a full stack developer, excited by projects with a social impact.
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=flat&logo=html5&logoColor=white&link=/)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&link=/)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-1572B6?style=flat&logo=postgresql&logoColor=white&link=/)
-
-
-## My Values 
 
 
 ## Dream Projects †
