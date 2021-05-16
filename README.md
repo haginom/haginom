@@ -14,7 +14,6 @@ I'm a full stack developer, excited by projects with a social impact.
 
 ## Dream Projects †
 
-![footer](https://capsule-render.vercel.app/api?type=slice&height=200&section=footer)
 
 <!--
 **haginom/haginom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
