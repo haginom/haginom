@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=Hi%20👋%20I'm%20Saki&fontSize=40&animation=fadeIn&fontAlignY=40&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=Hi%20👋%20I'm%20Saki&fontSize=40&animation=fadeIn&fontAlignY=40&fontAlign=80)
 
 ## Welcome to my Github
 
